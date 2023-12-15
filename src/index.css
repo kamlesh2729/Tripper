@@ -1,0 +1,53 @@
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities; 
+  
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+*::-webkit-scrollbar{
+  width: 10px;
+}
+*::-webkit-scrollbar-thumb{
+  border-radius: 20px;
+  background-color: rgb(255, 122, 46);
+}
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #ffffff;
+  font-family: "Poppins", sans-serif;
+  position: relative;
+}
+footer{
+  background-color: #ffffff;
+  padding: 10rem 0;
+}
+
+.ActiveAns{
+  max-height: 20rem; padding:2.8rem 4.5rem; transition: 0.s ease;
+}
+
+.ActiveQue {
+  background-color:#ff4d30; color:white;
+}
+
+.coloreDBtn {
+  background-color: #ff4d30;
+  color: white;
+}
+
+.active-model{
+  opacity: 1 !important;
+  display: flex !important;
+}
+.block-model{
+  opacity: 0;
+  display: none;
+  background-color: #f8e1f809;
+}
