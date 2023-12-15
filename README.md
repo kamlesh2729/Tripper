@@ -16,5 +16,5 @@
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='../client/Tripper-fullscreenshot.png'/>
+<img src='https://github.com/kamlesh2729/Tripper/blob/main/Tripper-fullscreenshot.png'/>
 </div>
