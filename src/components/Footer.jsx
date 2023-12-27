@@ -10,7 +10,7 @@ const Footer = () => {
         <article className=" grid grid-cols-com lg:grid-cols-inp sm:grid-cols-ft2t sm:text-left gap-32 justify-center text-center lg:text-left text-black">
           <ul className="list-none">
             <li className=" text-h3 mb-6">
-              <span className=" font-bold">ZOOM CAR</span> Rental
+              <span className=" font-bold">TRIPPER CAR</span> Rental
             </li>
             <li className=" mb-12 leading-7 text-slate-500 text-p">
               We offer a big range of vehicles for all your driving needs. We
